@@ -1,0 +1,73 @@
+shot_id:1,2,3,4......
+
+loc_x:x坐标
+
+loc_y:y坐标
+
+shot_distance：投篮距离
+
+shot_zone_area：投篮区域
+	0--Center(C)
+	1--Right Side(R)
+	2--Right Side Center(RC)	
+	3--Left Side(L)
+	4--Left Side Center(LC)
+	5--Back Court(BC)
+	
+playoffs：是否为季后赛
+	0--否
+	1--是
+	
+period：节
+	1
+	2
+	3
+	4
+	
+minutes_remaining：单节剩余时间（分）
+
+seconds_remaining：单节剩余时间（秒）
+
+game_date：比赛日期
+
+opponent：对手
+
+action_type：投篮类型
+	0--Jump Shot 跳投
+	0--Jump Bank Shot
+	0--Pullup Jump shot 急停跳投
+	0--Driving Jump shot
+	0--Turnaround Fadeaway shot 转身跳投
+	0--Turnaround Jump Shot
+	0--Turnaround Bank shot
+	0--Fadeaway Jump Shot
+	0--Fadeaway Bank shot
+	0--Step Back Jump shot 后撤步跳投
+	0--Driving Floating Jump Shot 突破漂移投篮
+	0--Floating Jump shot
+	1--Layup Shot 上篮
+	1--Running Jump Shot  三步上篮
+	1--Driving Layup Shot
+	1--Running Layup Shot
+	1--Reverse Layup Shot
+	1--Finger Roll Shot 指尖挑篮
+	1--Driving Finger Roll Shot
+	1--Running Finger Roll Layup Shot
+	
+	2--Driving Dunk Shot 扣篮
+	2--Slam Dunk Shot
+	2--Driving Slam Dunk Shot
+	2--Reverse Dunk Shot
+	3--Tip Shot 补篮
+	4--Alley Oop Dunk Shot 空接
+	4--Alley Oop Layup shot
+	5--Running Hook Shot 勾手
+	
+	
+	
+
+shot_type：得分选择
+	2--2PT Field Goal
+	3--3PT Field Goal
+
+
